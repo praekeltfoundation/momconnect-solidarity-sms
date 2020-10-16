@@ -3,6 +3,7 @@ import hmac
 import json
 import os
 from hashlib import sha256
+
 import pytest
 
 from api import app
