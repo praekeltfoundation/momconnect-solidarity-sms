@@ -19,3 +19,4 @@ jobs:
           black --check .
           isort --check .
           flake8 .
+          py.test
